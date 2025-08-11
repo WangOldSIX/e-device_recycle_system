@@ -278,9 +278,8 @@ go build -o device-recycle-server main.go
 
 ## 联系方式
 
-- 项目地址: [GitHub Repository]
-- 问题反馈: [GitHub Issues]
-- 邮箱: your-email@example.com
+- 项目地址:(https://github.com/WangOldSIX/e-device_recycle_system)
+- 邮箱: 1447895999@qq.com
 
 ---
 
