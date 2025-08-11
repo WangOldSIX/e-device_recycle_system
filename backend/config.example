@@ -1,0 +1,16 @@
+# 服务器配置
+PORT=8080
+
+# 数据库配置
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASS=your_password
+DB_NAME=device_recycle
+
+# JWT配置
+JWT_SECRET=your-secret-key-here
+
+# 文件上传配置
+UPLOAD_PATH=./uploads
+MAX_FILE_SIZE=10MB
